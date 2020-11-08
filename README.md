@@ -52,7 +52,7 @@ These are the highlights of the skills I consider to be the keystone of my abili
 * I have been focusing mainly on **AWS**. It's the place where most of my work goes to serve its purpose.
 * I have substantial experience dealing with **relational databases** (mainly PostgreSql), and **non-relational** ones (MongoDB).
 * I've done a lot of front-end development, I'm pretty good using **VueJS**.
-* I'm stuying **React**
+* I'm studying **React**
 
 ### Some of the things I've built
 
