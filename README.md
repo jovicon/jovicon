@@ -67,3 +67,7 @@ Cooming soon!
 
 📫  You can find me on [Twitter](https://twitter.com/Jocon16) or [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-contreras-631941102/).
 
+### Github Status
+
+![Jose's github stats](https://github-readme-stats.vercel.app/api?username=jovicon&show_icons=true&theme=highcontrast)
+
