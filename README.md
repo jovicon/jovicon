@@ -8,7 +8,7 @@ I care deeply about unlocking the power of technology for individuals and busine
 - 🐳📦🎶📚 I'm currently learning a lot about **Docker**, **Kubernetes** and solidifying **Design Patterns**, **Nodejs Knowledge**.
 
 <details>
-<summary>💻  This is where I've worked during the last 5 years</summary>
+<summary>💻 ###This is where I've worked during the last 5 years</summary>
 
 **FULL STACK SENIOR DEVELOPER**
 
