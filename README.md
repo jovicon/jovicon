@@ -17,6 +17,7 @@ I care deeply about unlocking the power of technology for individuals and busine
 <summary>
 	<strong>🔧  Development Toolkit</strong>
 </summary>
+
 * Languages:  
 <code>
 <img height="25" src="https://user-images.githubusercontent.com/21287303/104820456-87bf0d80-5813-11eb-90e5-c0ea85ea8ae6.png">
@@ -105,8 +106,10 @@ I care deeply about unlocking the power of technology for individuals and busine
 <summary>
 <strong>📜 Certifications</strong>
 </summary>
+
 * [SCRUM FOUNDATION](images/scrum_foundation.png)
 * [AWS CLOUD PRACTITIONER ESSENTIALS](images/aws_cloud_practitiones_essentials.png)
+
 </details>
 
 <details>
