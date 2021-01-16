@@ -7,7 +7,8 @@ I care deeply about unlocking the power of technology for individuals and busine
 - 🔭 I'm currently working on **Social Network** API integration with **Purecloud**/**Five9** ( **Facebook**, **Twitter**, **Whatsapp Business**, **Instagram**).
 - 🐳📦🎶📚 I'm currently learning a lot about **Docker**, **Kubernetes** and solidifying **Design Patterns**, **Nodejs Knowledge**.
 
-### This is where I've worked during the last 5 years
+<details>
+<summary>💻  This is where I've worked during the last 5 years</summary>
 
 **FULL STACK SENIOR DEVELOPER**
 
@@ -26,6 +27,7 @@ I develop software solutions for companies like MOVISTAR CHILE, HELP EMERGENCY, 
 _[Good Shepherd Tours](www.goodshepherdtour.com). Feb 2015 – Feb 2017._
 
 Front-end developer.
+</details>
 
 ### My education
 
