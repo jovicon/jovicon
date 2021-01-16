@@ -58,6 +58,7 @@ I care deeply about unlocking the power of technology for individuals and busine
 <summary>
 <strong>🎓 My education</strong>
 </summary>
+
 > _Univ. José Antonio Páez, 2014._  
 > **TELECOM ENGINEER**
 
