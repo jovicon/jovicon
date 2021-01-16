@@ -9,8 +9,6 @@ I care deeply about unlocking the power of technology for individuals and busine
 - Mastering Node.Js.
 - Learning [React](https://roadmap.sh/react) and Serverless.
 
-<br>
-
 ***
 
 ### Knowledge and work
@@ -19,10 +17,7 @@ I care deeply about unlocking the power of technology for individuals and busine
 	<strong>🔧  Development Toolkit</strong>
 </summary>
 
-* Languages:
-<img height="25" style="margin-left:10px;" src="https://user-images.githubusercontent.com/21287303/104820456-87bf0d80-5813-11eb-90e5-c0ea85ea8ae6.png">
-<img height="27" style="margin-left:10px;" src="https://user-images.githubusercontent.com/21287303/104820584-775b6280-5814-11eb-82c2-7c7fdcf2d806.png">
-<img height="25" style="margin-left:10px;" src="https://user-images.githubusercontent.com/21287303/104820600-b12c6900-5814-11eb-8dab-7396113f7c70.png">
+* Languages: <img height="25" style="margin-left:10px;" src="https://user-images.githubusercontent.com/21287303/104820456-87bf0d80-5813-11eb-90e5-c0ea85ea8ae6.png"> <img height="27" style="margin-left:10px;" src="https://user-images.githubusercontent.com/21287303/104820584-775b6280-5814-11eb-82c2-7c7fdcf2d806.png"> <img height="25" style="margin-left:10px;" src="https://user-images.githubusercontent.com/21287303/104820600-b12c6900-5814-11eb-8dab-7396113f7c70.png">
 
 * Frontend Frameworks:
 <img height="25" style="margin-left:10px;" src="https://user-images.githubusercontent.com/21287303/104820910-edf95f80-5816-11eb-9115-505367121387.jpg">
