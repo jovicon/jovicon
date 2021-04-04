@@ -71,8 +71,12 @@ I care deeply about unlocking the power of technology for individuals and busine
 <strong>📜 Certifications</strong>
 </summary>
 
-* [SCRUM FOUNDATION](images/scrum_foundation.png)
-* [AWS CLOUD PRACTITIONER ESSENTIALS](images/aws_cloud_practitiones_essentials.png)
+* 2020
+	* [SCRUM FOUNDATION](https://github.com/jovicon/jovicon/blob/master/assets/pdf/Scrum-Foundation.pdf)
+	* [AWS CLOUD PRACTITIONER ESSENTIALS](https://github.com/jovicon/jovicon/blob/master/assets/img/AWS%20Training%20%26%20Certification%20-%20Certificate%20of%20Completion.PNG)
+
+* 2021
+	* [Beginner's Guide to Open Source Software Development](https://github.com/jovicon/jovicon/blob/master/assets/pdf/LFD102-Jos%C3%A9Contreras.pdf)
 
 </details>
 
