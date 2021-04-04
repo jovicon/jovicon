@@ -1,13 +1,15 @@
-### Hi! 👋
+### Hi there! <img src="https://media.giphy.com/media/6jEy9iuIqd82pdueKG/giphy.gif" width="25px">
 
 My name is **José**, and I'm a **software** developer with six years of experience building software to solve exciting and —sometimes— hard problems.
 
-I care deeply about unlocking the power of technology for individuals and businesses, so they can use computers in a way that was previously unrealistic for them. Is really great if I can collaborate with a team of like-minded engineers!
+I love to learn new tecnologies and improve my development tecniques every day, because I care deeply about software quality and scalability.
+Is really great if I can collaborate with a team of like-minded engineers!
 
 ##### What am I working on?
 - I'm currently developing new features in **AFP CAPITAL** internal apps.
-- Mastering Node.Js.
-- Learning [React](https://roadmap.sh/react) and Serverless.
+- Mastering Typescript.
+- Learning [React](https://roadmap.sh/react).
+- Learning [OSS](https://opensource.guide).
 
 ***
 
@@ -90,10 +92,29 @@ These are the highlights of the skills I consider to be the keystone of my abili
 * I have a lot of experience **designing** and **architecting** systems of different sizes and complexity.
 * I have been focusing mainly on **AWS**. It's the place where most of my work goes to serve its purpose.
 * I've become an excellent **PHP** 🐘 developer.
-* I really love **Node.js** and all about Async/Await/Promises ❤️.
+* I really love **Node.js**, **Typescript** and all about Async/Await/Promises ❤️.
 * I'm developing a lot of new things with **Python** 🐍.
 * I have substantial experience dealing with **relational databases** (mainly PostgreSql), and **non-relational** ones (MongoDB).
-* I've done a lot of front-end development, I'm pretty good using **VueJS**.
+* I've done a lot of front-end development, I'm pretty good using **VueJS** and **React**.
+</details>
+
+<details>
+<summary>
+<strong>📚 Books that changed my way to think and developing</strong>
+
+* [The Pragmatic Programmer](https://www.amazon.com/-/es/David-Thomas/dp/0135957052/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1617560936&sr=8-1)
+* [Clean Architecture](https://www.amazon.com/-/es/Robert-Martin/dp/0134494164/ref=sr_1_1?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=the+clean+architecture&qid=1617561122&sr=8-1)
+* [Atomic habits](https://www.amazon.com/-/es/James-Clear/dp/0735211299/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1617561159&sr=8-1)
+* [The 7 Habits of Highly Effective People](https://www.amazon.com/-/es/Stephen-R-Covey/dp/1982137274/ref=sr_1_1?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=ES1TK5036CYK&dchild=1&keywords=seven+habits+of+highly+effective+people+by+stephen+covey&qid=1617561200&sprefix=seven+habit%2Caps%2C299&sr=8-1)
+
+
+</summary>
+
+> _Univ. José Antonio Páez, 2014._  
+> **TELECOM ENGINEER**
+
+> _Colegio Santa María, Venezuela. 2007._  
+> **BACHELOR OF SCIENCE (B.S.)**
 </details>
 
 <details>
