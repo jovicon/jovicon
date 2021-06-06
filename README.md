@@ -79,6 +79,8 @@ Is really great if I can collaborate with a team of like-minded engineers!
 
 * 2021
 	* [Beginner's Guide to Open Source Software Development](https://github.com/jovicon/jovicon/blob/master/assets/pdf/LFD102-Jos%C3%A9Contreras.pdf)
+	* [Introduction to Open Source Development, Git and Linux](https://github.com/jovicon/jovicon/blob/master/assets/pdf/LFD201-certificate-jose-contreras.pdf)
+	* [Containers for Developers and Quality Assurance](https://github.com/jovicon/jovicon/blob/master/assets/pdf/LFD254-certificate-jose-contreras.pdf)
 
 </details>
 
