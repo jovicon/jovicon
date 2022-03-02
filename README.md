@@ -143,3 +143,7 @@ You can find me on:
 
 ![Jose's github stats](https://github-readme-stats.vercel.app/api?username=jovicon&show_icons=true&theme=highcontrast)
 
+***
+
+![Jose's github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jovicon&hide=html,php,css,hack&theme=highcontrast)
+
