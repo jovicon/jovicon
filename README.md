@@ -92,9 +92,14 @@ Is really great if I can collaborate with a team of like-minded engineers!
   - [Beginner's Guide to Open Source Software Development](https://github.com/jovicon/jovicon/blob/master/assets/pdf/LFD102-Jos%C3%A9Contreras.pdf)
   - [Introduction to Open Source Development, Git and Linux](https://github.com/jovicon/jovicon/blob/master/assets/pdf/LFD201-certificate-jose-contreras.pdf)
   - [Containers for Developers and Quality Assurance](https://github.com/jovicon/jovicon/blob/master/assets/pdf/LFD254-certificate-jose-contreras.pdf)
+  - [DevOps and SRE Fundamentals: Implementing Continuous Delivery](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/17f55ccc-957a-4c50-a32f-88cf49ba875f-jose-contreras-devops-and-sre-fundamentals-implementing-continuous-delivery-lfs261-certificate.pdf)
+  - [Kubernetes for Developers](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/17f55ccc-957a-4c50-a32f-88cf49ba875f-jose-contreras-kubernetes-for-developers-lfd259-certificate.pdf)
+  - [Clean Code](https://www.udemy.com/certificate/UC-a9a835e1-93a1-489d-9214-419bada976fd/)
 
 - 2022
+  - [Gitlab & Git - Good practices](https://www.coursera.org/account/accomplishments/certificate/R4F2B66QSGYK)
   - [Angular Software Development](https://github.com/jovicon/jovicon/blob/master/assets/pdf/Coursera_A4ECJ5Q383KK.pdf)
+  - TALENTUM SURA BUILDER SKILLS - LEADERSHIP
 
 </details>
 
