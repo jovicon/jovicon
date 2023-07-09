@@ -47,7 +47,7 @@ Is really great if I can collaborate with a team of like-minded engineers!
 >
 > Description: Coming soon!
 
-> _[AFP CAPITAL](https://www.afpcapital.cl/default.html). Nov 2020 - Nov 2022_
+> _[AFP CAPITAL](https://www.afpcapital.cl/default.html). Nov 2020 - Nov 2022_  
 > **FULL STACK SENIOR DEVELOPER**
 >
 > Description: Senior Software developer, handle team decisions and technical improvements in several afp products!
