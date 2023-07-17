@@ -36,7 +36,7 @@ Is really great if I can collaborate with a team of like-minded engineers!
 
 - Databases: <img height="25" style="margin-left:10px;" src="https://user-images.githubusercontent.com/21287303/104820756-dbcaf180-5815-11eb-8279-86d4b09731d1.png"> <img height="25" style="margin-left:10px;" src="https://user-images.githubusercontent.com/21287303/104820759-dff70f00-5815-11eb-87b6-ba6da48549fb.png">
 
-- Cloud: <img height="25" style="margin-left:10px;" src="https://user-images.githubusercontent.com/21287303/104820760-e2596900-5815-11eb-8dba-144670c20333.png"> <img height="25" style="margin-left:10px;" src="https://user-images.githubusercontent.com/21287303/104820762-e5ecf000-5815-11eb-9a5a-15e8d6396d90.png">
+- Cloud: <img height="25" style="margin-left:10px;" src="https://user-images.githubusercontent.com/21287303/104820760-e2596900-5815-11eb-8dba-144670c20333.png"> <img height="25" style="margin-left:10px;" src="https://github.com/jovicon/jovicon/assets/21287303/24ecc340-b89a-4c2a-a5da-dedb5bf078af"> <img height="25" style="margin-left:10px;" src="https://user-images.githubusercontent.com/21287303/104820762-e5ecf000-5815-11eb-9a5a-15e8d6396d90.png">
 
 - Tools: <img height="25" style="margin-left:10px;" src="https://user-images.githubusercontent.com/21287303/104821504-1a16df80-581b-11eb-98e1-641bc2f6c7ae.png"> <img height="25" style="margin-left:10px;" src="https://user-images.githubusercontent.com/21287303/104821536-4e8a9b80-581b-11eb-8b73-383025d5afef.png"> <img height="25" style="margin-left:10px;" src="https://user-images.githubusercontent.com/21287303/104821537-50545f00-581b-11eb-9afe-1b93f132716e.png">
 
