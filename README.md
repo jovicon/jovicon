@@ -104,7 +104,6 @@ Is really great if I can collaborate with a team of like-minded engineers!
 - 2022
 
   - [Gitlab & Git - Good practices](https://www.coursera.org/account/accomplishments/certificate/R4F2B66QSGYK)
-
   - [Angular Software Development](https://github.com/jovicon/jovicon/blob/master/assets/pdf/Coursera_A4ECJ5Q383KK.pdf)
   - TALENTUM SURA BUILDER SKILLS - LEADERSHIP
 
