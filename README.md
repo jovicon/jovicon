@@ -2,7 +2,8 @@
 
 My name is **José**, and I'm a **software** developer with seven years of experience building software to solve exciting and —sometimes— hard problems.
 
-I love to learn new tecnologies and improve my development tecniques every day, because I care deeply about software quality and scalability.
+I love to learn new tecnologies and improve my development tecniques every day, because I care deeply about software quality, architecture and scalability.
+
 Is really great if I can collaborate with a team of like-minded engineers!
 
 ##### What am I working on?
@@ -10,6 +11,10 @@ Is really great if I can collaborate with a team of like-minded engineers!
 - I'm currently developing new features in **AFP CAPITAL** internal apps.
 - Mastering Software Engineering with Typescript.
 - Building [Typescript Hub](https://typescripthub.com/).
+
+##### What am reading right now?
+
+- [Building Microservices: Designing Fine-Grained Systems](https://www.goodreads.com/book/show/22512931-building-microservices)
 
 ---
 
@@ -97,9 +102,14 @@ Is really great if I can collaborate with a team of like-minded engineers!
   - [Clean Code](https://www.udemy.com/certificate/UC-a9a835e1-93a1-489d-9214-419bada976fd/)
 
 - 2022
+
   - [Gitlab & Git - Good practices](https://www.coursera.org/account/accomplishments/certificate/R4F2B66QSGYK)
+
   - [Angular Software Development](https://github.com/jovicon/jovicon/blob/master/assets/pdf/Coursera_A4ECJ5Q383KK.pdf)
   - TALENTUM SURA BUILDER SKILLS - LEADERSHIP
+
+- 2023
+  - [Distributed Data Patterns for Microservices](https://microservices.matrixlms.com/print_certificate/pdf?user_award=6181748)
 
 </details>
 
@@ -112,9 +122,8 @@ These are the highlights of the skills I consider to be the keystone of my abili
 
 - I have a lot of experience **designing** and **architecting** systems of different sizes and complexity.
 - I have been focusing mainly on **AWS**. It's the place where most of my work goes to serve its purpose.
-- I've become an excellent **PHP** 🐘 developer.
-- I really love **Node.js**, **Typescript** and all about Async/Await/Promises ❤️.
-- I'm developing a lot of new things with **Python** 🐍.
+- I've become an excellent/effective **Typescript** developer.
+- I really love **Node.js**, **Express.js** & **NestJs** and all about Async/Await/Promises/Events ️❤️🫶.
 - I have substantial experience dealing with **relational databases** (mainly PostgreSql), and **non-relational** ones (MongoDB).
 - I've done a lot of front-end development, I'm pretty good using **VueJS** and **React**.
 </details>
