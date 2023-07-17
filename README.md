@@ -12,7 +12,7 @@ Is really great if I can collaborate with a team of like-minded engineers!
 - Mastering Software Engineering with Typescript.
 - Building [Typescript Hub](https://typescripthub.com/).
 
-##### What am reading right now?
+##### What am I reading right now?
 
 - [Building Microservices: Designing Fine-Grained Systems](https://www.goodreads.com/book/show/22512931-building-microservices)
 
