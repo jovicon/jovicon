@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://media.giphy.com/media/6jEy9iuIqd82pdueKG/giphy.gif" width="25px">
 
-My name is **José**, and I'm a **software** developer with seven years of experience building software to solve exciting and —sometimes— hard problems.
+My name is **José**, and I'm a **Software Engineer** with seven years of experience building software to solve exciting and —sometimes— hard problems.
 
 I love to learn new tecnologies and improve my development tecniques every day, because I care deeply about software quality, architecture and scalability.
 
