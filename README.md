@@ -133,11 +133,11 @@ These are the highlights of the skills I consider to be the keystone of my abili
 </summary>
 
 - [Deep Work](https://www.goodreads.com/book/show/25744928-deep-work)
-- [The Pragmatic Programmer](https://www.amazon.com/-/es/David-Thomas/dp/0135957052/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1617560936&sr=8-1)
+- [The Pragmatic Programmer](https://www.goodreads.com/book/show/126520556-the-pragmatic-programmer)
 - [Clean Code](https://www.goodreads.com/book/show/3735293-clean-code)
-- [Clean Architecture](https://www.amazon.com/-/es/Robert-Martin/dp/0134494164/ref=sr_1_1?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=the+clean+architecture&qid=1617561122&sr=8-1)
-- [Atomic habits](https://www.amazon.com/-/es/James-Clear/dp/0735211299/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1617561159&sr=8-1)
-- [The 7 Habits of Highly Effective People](https://www.amazon.com/-/es/Stephen-R-Covey/dp/1982137274/ref=sr_1_1?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=ES1TK5036CYK&dchild=1&keywords=seven+habits+of+highly+effective+people+by+stephen+covey&qid=1617561200&sprefix=seven+habit%2Caps%2C299&sr=8-1)
+- [Clean Architecture](https://www.goodreads.com/book/show/18043011-clean-architecture)
+- [Atomic habits](https://www.goodreads.com/book/show/40121378-atomic-habits)
+- [The 7 Habits of Highly Effective People](https://www.goodreads.com/book/show/36072.The_7_Habits_of_Highly_Effective_People)
 - [Steve Jobs](https://www.goodreads.com/book/show/11084145-steve-jobs)
 </details>
 
